@@ -16,6 +16,8 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
    
 ### Program:
 
+### Output:
+
 ### For Subtraction (Considering Greater Number):
 1.	Load the first number from memory location 4200H into register A.
 2.	Load the second number from memory location 4201H into register B.
@@ -26,6 +28,8 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 
 ### Program:
 
+### Output:
+
 ### For Multiplication:
 1.	Load the first number from memory location 4200H into register A.
 2.	Load the second number from memory location 4201H into register B.
@@ -34,6 +38,8 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 
 ### Program:
 
+### Output:
+
 ### For Division:
 1.	Load the dividend from memory location 4200H into register A.
 2.	Load the divisor from memory location 4201H into register B.
@@ -41,6 +47,8 @@ To perform 8-bit arithmetic operations such as addition, subtraction, multiplica
 4.	Store the quotient in 4300H and remainder in 4301H.
 
 ### Program:
+
+### Output:
 
 ## Result:
 The 8-bit arithmetic operations using the 8085 microprocessor have been successfully executed and verified using memory access for input and output.
